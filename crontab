@@ -1,0 +1,3 @@
+*/2 * * * * /bin/convert >> /var/log/cron.log 2>&1
+
+# Mandatory blank line
